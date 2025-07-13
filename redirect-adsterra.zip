@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>مرحبا بك</title>
+  <style>
+    body {
+      font-family: Tahoma, sans-serif;
+      background: #f2f2f2;
+      text-align: center;
+      padding: 50px;
+    }
+    .container {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      display: inline-block;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #333;
+    }
+    a.button {
+      display: inline-block;
+      padding: 12px 25px;
+      font-size: 18px;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      margin-top: 20px;
+      transition: 0.3s;
+    }
+    a.button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>أهلاً بك في صفحتنا</h1>
+    <p>اضغط الزر للدخول الآن:</p>
+    <a class="button" href="https://independentacceptable.com/f24f1hust?key=8eb52ceb7c489ed656eb9705ae898e38" target="_blank">ادخل الآن</a>
+  </div>
+</body>
+</html>
